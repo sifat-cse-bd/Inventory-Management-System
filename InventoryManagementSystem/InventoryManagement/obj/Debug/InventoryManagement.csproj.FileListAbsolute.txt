@@ -1,0 +1,107 @@
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\bin\Debug\InventoryManagement.exe
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\bin\Debug\InventoryManagement.pdb
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\bin\Debug\Guna.UI2.dll
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.csproj.AssemblyReference.cache
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.exe.config
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.AdminCreateForm.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.OtpForm.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.App.HomeForm.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.App.PreviewRegForm.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.App.ShopRegistrationForm.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Properties.Resources.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.cache
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\obj\Debug\Inventor.F96114ED.Up2Date
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.exe
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C Sharp Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.pdb
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.csproj.AssemblyReference.cache
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.UserControlAdminDashboard.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.AddAdminControl.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.AddNewUserControl.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.AddSalesmanControl.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.UserPreviewControl.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.AddProductControl.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.Product.CategoryControl.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.Product.FormDiscount.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.Product.FormEditProduct.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.Product.FormPurchase.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.ListProductControl.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.SettingsControl.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.FormAdminHome.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.FormAdminRegistration.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.EmailHub.FormOTP.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Registration.FormPreviewReg.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.App.FormLogin.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Properties.Resources.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Salesman.Activity.FormSalesmanHome.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Salesman.FormFirst.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.cache
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\InventoryManagement.exe
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\InventoryManagement.pdb
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\Guna.UI2.dll
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\MetroFramework.Design.dll
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\MetroFramework.dll
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\MetroFramework.Fonts.dll
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\Inventor.F96114ED.Up2Date
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.exe
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.pdb
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.exe.config
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.Product.FormCreateDiscount.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Salesman.Activity.SaleControl.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Salesman.Activity.SaleHistoryControl.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.ManageUser.ViewUserControl.resources
+D:\American International University-Bangladesh\Course & Session\Session-2025\Spring Semester 2025\C_Sharp Lab\Finalterm\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.ManageUser.UserInfoControl.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\InventoryManagement.exe
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\InventoryManagement.pdb
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\Guna.UI2.dll
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\MetroFramework.Design.dll
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\MetroFramework.dll
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\MetroFramework.Fonts.dll
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.csproj.AssemblyReference.cache
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.exe.config
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.UserControlAdminDashboard.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.Dashboard.PurchaseHistoryControl.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.AddAdminControl.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.AddNewUserControl.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.AddSalesmanControl.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.ManageUser.UserInfoControl.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.ManageUser.ViewUserControl.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.AddProductControl.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.Product.CategoryControl.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.Product.FormCreateDiscount.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.Product.FormDiscount.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.Product.FormEditProduct.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.Product.FormPurchase.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.ListProductControl.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.SettingsControl.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.FormAdminHome.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.FormAdminRegistration.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.EmailHub.FormOTP.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Registration.FormPreviewReg.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.App.FormLogin.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Properties.Resources.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Salesman.Activity.FormSalesmanHome.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Salesman.Activity.SaleControl.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Salesman.Activity.SaleHistoryControl.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Salesman.FormFirst.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.cache
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\Inventor.F96114ED.Up2Date
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.exe
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.pdb
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\BouncyCastle.Cryptography.dll
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\itextsharp.dll
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\BouncyCastle.Cryptography.xml
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\itextsharp.xml
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\zxing.dll
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\zxing.presentation.dll
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\zxing.xml
+D:\C# Project\InventoryManagementSystem\InventoryManagement\bin\Debug\zxing.presentation.xml
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.Admin.Activity.Dashboard.FormSaleDetails.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.App.FormSMTP.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.App.FormResetPassword.resources
+D:\C# Project\InventoryManagementSystem\InventoryManagement\obj\Debug\InventoryManagement.App.FormNewPasswordEntry.resources

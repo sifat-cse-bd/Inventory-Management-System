@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7DC43903-67F5-4181-97C8-742D0A2D3A9B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>InventoryManagement</RootNamespace>
+    <AssemblyName>InventoryManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.4.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.7, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.7\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.4, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.4\lib\net461\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Security.Cryptography.Encoding" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing, Version=0.16.10.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.10\lib\net47\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.10.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.10\lib\net47\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\Activity\Dashboard\DashboardControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\Dashboard\DashboardControl.Designer.cs">
+      <DependentUpon>DashboardControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\Dashboard\FormSaleDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\Dashboard\FormSaleDetails.Designer.cs">
+      <DependentUpon>FormSaleDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\Dashboard\PurchaseHistoryControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\Dashboard\PurchaseHistoryControl.Designer.cs">
+      <DependentUpon>PurchaseHistoryControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\ManageUser\AddAdminControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\ManageUser\AddAdminControl.Designer.cs">
+      <DependentUpon>AddAdminControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\ManageUser\AddNewUserContro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\ManageUser\AddNewUserContro.Designer.cs">
+      <DependentUpon>AddNewUserContro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\ManageUser\AddSalesmanControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\ManageUser\AddSalesmanControl.Designer.cs">
+      <DependentUpon>AddSalesmanControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\ManageUser\UserInfoControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\ManageUser\UserInfoControl.Designer.cs">
+      <DependentUpon>UserInfoControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\ManageUser\ViewUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\ManageUser\ViewUserControl.Designer.cs">
+      <DependentUpon>ViewUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\Product\AddProductControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\Product\AddProductControl.Designer.cs">
+      <DependentUpon>AddProductControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\Product\CategoryControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\Product\CategoryControl.Designer.cs">
+      <DependentUpon>CategoryControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\Product\FormCreateDiscount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\Product\FormCreateDiscount.Designer.cs">
+      <DependentUpon>FormCreateDiscount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\Product\FormDiscount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\Product\FormDiscount.Designer.cs">
+      <DependentUpon>FormDiscount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\Product\FormEditProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\Product\FormEditProduct.Designer.cs">
+      <DependentUpon>FormEditProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\Product\FormPurchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\Product\FormPurchase.Designer.cs">
+      <DependentUpon>FormPurchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\Product\ListProductControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\Product\ListProductControl.Designer.cs">
+      <DependentUpon>ListProductControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Activity\Settings\SettingsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\Activity\Settings\SettingsControl.Designer.cs">
+      <DependentUpon>SettingsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Home\FormAdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Home\FormAdminHome.Designer.cs">
+      <DependentUpon>FormAdminHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Registration\FormAdminRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Registration\FormAdminRegistration.Designer.cs">
+      <DependentUpon>FormAdminRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\FormNewPassowrdEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\FormNewPassowrdEntry.Designer.cs">
+      <DependentUpon>FormNewPassowrdEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\FormResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\FormResetPassword.Designer.cs">
+      <DependentUpon>FormResetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\FormSMTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\FormSMTP.Designer.cs">
+      <DependentUpon>FormSMTP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\InputHelper.cs" />
+    <Compile Include="Database\AddressBook.cs" />
+    <Compile Include="Database\DataAccess.cs" />
+    <Compile Include="Database\ImageManager.cs" />
+    <Compile Include="EmailHub\EmailAccess.cs" />
+    <Compile Include="EmailHub\FormOTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmailHub\FormOTP.Designer.cs">
+      <DependentUpon>FormOTP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Registration\FormPreviewReg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Registration\FormPreviewReg.Designer.cs">
+      <DependentUpon>FormPreviewReg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmailHub\OtpManager.cs" />
+    <Compile Include="Generator\IdGenerator.cs" />
+    <Compile Include="Print\SalesVoucherPrint.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Salesman\Activity\FormSalesmanHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salesman\Activity\FormSalesmanHome.Designer.cs">
+      <DependentUpon>FormSalesmanHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salesman\Activity\SaleControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Salesman\Activity\SaleControl.Designer.cs">
+      <DependentUpon>SaleControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salesman\Activity\SaleHistoryControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Salesman\Activity\SaleHistoryControl.Designer.cs">
+      <DependentUpon>SaleHistoryControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salesman\Registration\FormFirst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salesman\Registration\FormFirst.Designer.cs">
+      <DependentUpon>FormFirst.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin\Activity\Dashboard\DashboardControl.resx">
+      <DependentUpon>DashboardControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\Dashboard\FormSaleDetails.resx">
+      <DependentUpon>FormSaleDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\Dashboard\PurchaseHistoryControl.resx">
+      <DependentUpon>PurchaseHistoryControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\ManageUser\AddAdminControl.resx">
+      <DependentUpon>AddAdminControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\ManageUser\AddNewUserContro.resx">
+      <DependentUpon>AddNewUserContro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\ManageUser\AddSalesmanControl.resx">
+      <DependentUpon>AddSalesmanControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\ManageUser\UserInfoControl.resx">
+      <DependentUpon>UserInfoControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\ManageUser\ViewUserControl.resx">
+      <DependentUpon>ViewUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\Product\AddProductControl.resx">
+      <DependentUpon>AddProductControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\Product\CategoryControl.resx">
+      <DependentUpon>CategoryControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\Product\FormCreateDiscount.resx">
+      <DependentUpon>FormCreateDiscount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\Product\FormDiscount.resx">
+      <DependentUpon>FormDiscount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\Product\FormEditProduct.resx">
+      <DependentUpon>FormEditProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\Product\FormPurchase.resx">
+      <DependentUpon>FormPurchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\Product\ListProductControl.resx">
+      <DependentUpon>ListProductControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Activity\Settings\SettingsControl.resx">
+      <DependentUpon>SettingsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Home\FormAdminHome.resx">
+      <DependentUpon>FormAdminHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Registration\FormAdminRegistration.resx">
+      <DependentUpon>FormAdminRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\FormNewPassowrdEntry.resx">
+      <DependentUpon>FormNewPassowrdEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\FormResetPassword.resx">
+      <DependentUpon>FormResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\FormSMTP.resx">
+      <DependentUpon>FormSMTP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmailHub\FormOTP.resx">
+      <DependentUpon>FormOTP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Registration\FormPreviewReg.resx">
+      <DependentUpon>FormPreviewReg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Salesman\Activity\FormSalesmanHome.resx">
+      <DependentUpon>FormSalesmanHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salesman\Activity\SaleControl.resx">
+      <DependentUpon>SaleControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salesman\Activity\SaleHistoryControl.resx">
+      <DependentUpon>SaleHistoryControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salesman\Registration\FormFirst.resx">
+      <DependentUpon>FormFirst.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Libs\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Project Image\Maximize_18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Project Image\Restore Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Project Image\Subtract.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Project Image\Close.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

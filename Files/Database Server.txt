@@ -1,0 +1,4 @@
+Server Name: .\SQLEXPRESS
+User name: sa
+password: C#.AIUB.2025
+Database Name: SuperShopDB
